@@ -38,7 +38,7 @@ body{
 .title-area{
   position:absolute;
 
-  top:5%;
+  top:15%;
   left:50%;
 
   transform:translateX(-50%);
@@ -46,18 +46,6 @@ body{
   width:90%;
 
   text-align:center;
-}
-
-.star{
-  color:white;
-
-  font-size:28px;
-
-  margin-bottom:6px;
-
-  text-shadow:
-    0 0 10px white,
-    0 0 30px white;
 }
 
 .title-area h1{
@@ -85,51 +73,52 @@ body{
   z-index:10;
 }
 
-/* ==========================
-   当日
-========================== */
-
+/* 当日 */
 .birthday{
-  left:32.5%;
-  top:45.5%;
 
-  width:35%;
+  left:28%;
+  top:46.5%;
+
+  width:44%;
   height:7%;
 }
 
-/* ==========================
-   上段
-========================== */
-
+/* 1日前 */
 .day1{
-  left:23.5%;
-  top:54%;
-  width:15%;
+
+  left:22%;
+  top:55%;
+
+  width:16%;
   height:8%;
 }
 
+/* 2日前 */
 .day2{
-  left:58%;
+
+  left:60%;
   top:60%;
-  width:15%;
+
+  width:16%;
   height:8%;
 }
 
+/* 3日前 */
 .day3{
+
   left:37%;
-  top:68%;
-  width:15%;
+  top:67%;
+
+  width:16%;
   height:8%;
 }
 
-/* ==========================
-   下段
-========================== */
-
+/* 4日前 */
 .day4{
-  left:19%;
-  top:78%;
-  width:15%;
+
+  left:18%;
+  top:76%;
+  width:16%;
   height:8%;
 }
 

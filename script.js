@@ -2,7 +2,7 @@
 // 誕生日設定
 // =========================
 
-const birthday = new Date("2026-10-27");
+const birthday = new Date("2026-11-1");
 
 // =========================
 // 日付取得
@@ -145,8 +145,8 @@ const contents = {
   },
 
   day4: {
-    type: "image",
-    src: "content/day4.jpg"
+    type: "video",
+    src: "content/day4.mp4"
   }
 
 };
