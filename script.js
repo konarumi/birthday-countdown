@@ -130,13 +130,13 @@ const contents = {
   },
 
   day1: {
-    type: "image",
-    src: "content/day1.jpg"
+    type: "ivideo",
+    src: "content/day1.mp4"
   },
 
   day2: {
-    type: "image",
-    src: "content/day2.jpg"
+    type: "video",
+    src: "content/day2.mp4"
   },
 
   day3: {
