@@ -130,7 +130,7 @@ const contents = {
   },
 
   day1: {
-    type: "ivideo",
+    type: "video",
     src: "content/day1.mp4"
   },
 
